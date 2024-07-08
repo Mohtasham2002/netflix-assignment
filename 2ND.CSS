@@ -1,0 +1,106 @@
+body{
+
+    background-color: white;
+}
+
+
+H1{
+
+    color: RED;
+    font-size: 40PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    font-family: ;
+    float: right;
+    margin-right: 70PX;
+    margin-top:-35PX;
+font-weight: 700;
+text-decoration: none;
+    color: black;
+    font-size:23PX;
+}                                        
+
+p{
+
+color: black;
+margin-left:400px;
+margin-top: 35px;
+
+}
+
+
+#abc{
+
+text-align: center;
+color: black;
+margin-left:-200px;
+margin-top:-15px;
+
+}
+#asd{
+
+text-align: center;
+color: black;
+margin-left:-80px;
+margin-top:-25px;
+   
+}
+
+#mmm{
+
+
+    
+color: black;
+margin-left:400px;
+margin-top:-10px;
+font-size:20PX;
+}
+
+input{
+
+
+    top: 70%;
+    color:black;
+    float: right;
+    margin-inline:400px;
+    width:460px;
+    height:60px;
+    /* margin-bottom: 100px; */
+    margin: right 500px;
+    cursor: pointer;
+}
+p>b{
+
+    font-size:20px;
+}
+
+
+p > a{ 
+    font-size:20px;
+
+color: blue;
+padding-right: 590px;
+
+}
+.CCC{
+    font-size:larger;
+    color: white;
+background-color: rgb(250, 16, 16);
+border: none;
+cursor:pointer;
+
+}
+.CCC:hover{
+
+ background-color:rgb(219, 3, 3);
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,279 @@
+/* h1{
+   background-color: aqua; color: white;
+   opacity: 0.4;
+}
+h2{
+    color: aqua;
+
+}
+a{
+
+    color: red;
+} */
+
+
+
+
+
+
+
+/* 
+*{
+
+
+    background-color: orange;
+} */
+
+/* 
+#ABC{
+
+background-color: aqua; color: bisque;
+
+}
+
+#ABC2{
+
+background-color: red; color: blue;
+
+
+} */
+/* 
+.ABC{
+
+
+    background-color: black; color: crimson;
+} */
+
+/* P{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} */
+
+
+/* 
+input{
+
+
+    background-color: aqua;
+}
+
+input:hover{
+background-color: darkturquoise;
+}
+
+input:active{
+
+    background-color: crimson;
+} */
+/* 
+input:focus:{
+
+
+    background-color: blue;
+} */
+
+
+
+
+
+/* 
+p{
+  margin: auto;
+    text-transform: capitalize;
+line-height:normal;
+    word-spacing:10px;
+ text-align: center;
+background-color: aqua;
+width: 800px;
+height:150PX;
+border: 5px groove crimson;
+padding: 20px 20px 20px 20px ;
+}
+
+
+
+
+a{
+text-decoration: none;
+padding-left:250px ;
+color:crimson;
+font-weight:bolder;
+
+} */
+/* 
+#abc{
+box-shadow:-20px -20px 15px crimson;
+box-shadow:20px 20px 15px rgb(55, 213, 27);
+    margin: auto;
+ text-align: center;
+background-color: aqua;
+width: 400px;
+height:230PX;
+
+padding: 20px 20px 20px 20px ;
+
+
+
+} */
+
+/* 
+ul > li{
+display: inline;
+background-color:red;                                                          %
+color: white;
+
+} */
+
+
+body{
+
+background-image:url(./netflix.jpg);
+
+}
+
+h1{
+/* font-style: inherit; */
+/* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+font-family: Arial, Helvetica, sans-serif;
+color: red;
+letter-spacing: 5px;
+font-size: 30px;
+}
+/* select > option{
+
+text-align: center;
+color: black;
+
+} */
+
+/* 
+select{
+
+float:right;
+margin-right:100px;
+width: 80px;
+height: 25px;
+
+
+} */
+
+
+
+
+
+
+
+button{
+    position: absolute;
+    top: 10%;
+    right: 25%;
+    border: none;
+color: white;
+border-radius:3PX;
+margin-right:-165px;
+cursor: pointer;
+background: transparent;
+border: 3.3px solid red;
+height: 27px;
+width: 80px;
+
+}
+
+button:hover{
+background-color: red;
+
+}
+.abc{
+color: white;
+text-align: center;
+margin-top:150px;
+word-spacing:-4px;
+font-size:45px;
+font-weight:500px;
+
+
+}
+h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top:20px;
+    color:white;
+    font-size: 20px;
+    font-weight:500px;
+    
+
+}
+h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-align: center;
+    margin-top:25px;
+    color:white;
+    font-size: 18px;
+    /* font-weight:300px; */
+}
+
+
+
+
+
+input{
+    top: 70%;
+color:black;
+float: right;
+margin-inline:600px;
+width:280px;
+height: 30px;
+/* margin-bottom: 100px; */
+margin: right 500px;
+background: transparent;
+}
+input:hover{
+
+background-color: white;
+}
+
+.AAA{
+
+/* color:white ;
+padding-left: 15px;
+text-align: left;
+font-weight: 780;
+width: 160PX;
+height:38px;
+float:right;
+background-color: red;
+border-radius: 5px;
+border-color: red;
+margin-right:350px; */
+position: absolute;
+top: 63%;
+right: 50%;
+border: none;
+color: white;
+border-radius:5PX;
+margin-right:-165px;
+cursor: pointer;
+background-color: red;
+/* border: 3.3px solid darkred; */
+height: 35px;
+width:130px;
+}
+.AAA:hover{
+
+    background-color:darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
